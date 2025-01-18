@@ -64,6 +64,7 @@ cd <repository_folder>
 
 Navigate to each service directory and install dependencies:
 ```bash
+python -m venv .venv
 pip install -r requirements.txt
 ```
 
